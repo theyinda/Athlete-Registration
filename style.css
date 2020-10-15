@@ -1,0 +1,48 @@
+* {
+    padding: 0;
+    margin: 0;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+  }
+  .container{
+    width: 60%;
+    margin: 150px auto;
+    display: flex;
+    flex-direction: column; 
+    background-color: red;
+  }  
+ .registration{
+    margin: 40px auto;
+ } 
+ .registration h1{
+    margin-bottom: 20px;
+}
+input{
+    padding: 10px;
+}
+ .login{
+    margin: 40px auto;
+ }
+ .login h1{
+     margin-bottom: 20px;
+ }
+ .submit{
+    color: red;
+    cursor: pointer;
+    width: 40%;
+    margin: 20px auto;
+    padding: 10px;
+  }
+  .submit:hover {
+    background-color: #000;
+  }
+  .login-btn{
+    color: red;
+    cursor: pointer;
+    width: 30%;
+    margin: 20px auto;
+    padding: 10px;
+  }
+  .login-btn:hover {
+    background-color: #000;
+  }
