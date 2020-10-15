@@ -1,5 +1,5 @@
-Full name: Oluwakemi Akindele
-Slack Id: theyinda
+Full name: Oluwakemi Akindele;
+Slack Id: theyinda;
 Summary of the video: 
 I learnt that git is a Version Control System for tracking changes in computer files.
 He also talked about the basic commands like:
